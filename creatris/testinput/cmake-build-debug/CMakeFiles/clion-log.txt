@@ -1,0 +1,4 @@
+C:\Users\aadne\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.6397.106\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_CXX_FLAGS=-IC:/dev/libs/SFML/include -IC:/dev/libs/jsoncpp/include" "-DCMAKE_EXE_LINKER_FLAGS=-LC:/dev/libs/SFML/lib -LC:/dev/libs/jsoncpp/lib" -G "CodeBlocks - MinGW Makefiles" C:\Users\aadne\dat220g20h\creatris\testinput
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/aadne/dat220g20h/creatris/testinput/cmake-build-debug

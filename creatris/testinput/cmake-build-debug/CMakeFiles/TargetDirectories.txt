@@ -1,0 +1,3 @@
+C:/Users/aadne/dat220g20h/creatris/testinput/cmake-build-debug/CMakeFiles/testinput.dir
+C:/Users/aadne/dat220g20h/creatris/testinput/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aadne/dat220g20h/creatris/testinput/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="testinput"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/aadne/dat220g20h/creatris/testinput/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/X86_64~1.0-R/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/aadne/dat220g20h/creatris/testinput/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/X86_64~1.0-R/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/aadne/dat220g20h/creatris/testinput/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/X86_64~1.0-R/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/aadne/dat220g20h/creatris/testinput/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/X86_64~1.0-R/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/aadne/dat220g20h/creatris/testinput/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testinput">
+				<Option output="C:/Users/aadne/dat220g20h/creatris/testinput/cmake-build-debug/testinput.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/aadne/dat220g20h/creatris/testinput/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (2)/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (2)/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (2)/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (2)/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (2)/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (2)/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/X86_64~1.0-R/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/aadne/dat220g20h/creatris/testinput/cmake-build-debug/Makefile&quot;  VERBOSE=1 testinput"/>
+					<CompileFile command="C:/X86_64~1.0-R/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/aadne/dat220g20h/creatris/testinput/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/X86_64~1.0-R/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/aadne/dat220g20h/creatris/testinput/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/X86_64~1.0-R/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/aadne/dat220g20h/creatris/testinput/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testinput/fast">
+				<Option output="C:/Users/aadne/dat220g20h/creatris/testinput/cmake-build-debug/testinput.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/aadne/dat220g20h/creatris/testinput/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (2)/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (2)/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (2)/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (2)/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (2)/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/x86_64-7.3.0-release-posix-seh-rt_v5-rev0 (2)/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/X86_64~1.0-R/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/aadne/dat220g20h/creatris/testinput/cmake-build-debug/Makefile&quot;  VERBOSE=1 testinput/fast"/>
+					<CompileFile command="C:/X86_64~1.0-R/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/aadne/dat220g20h/creatris/testinput/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/X86_64~1.0-R/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/aadne/dat220g20h/creatris/testinput/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/X86_64~1.0-R/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/aadne/dat220g20h/creatris/testinput/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/aadne/dat220g20h/creatris/testinput/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/X86_64~1.0-R/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/aadne/dat220g20h/creatris/testinput/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/X86_64~1.0-R/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/aadne/dat220g20h/creatris/testinput/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/X86_64~1.0-R/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/aadne/dat220g20h/creatris/testinput/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/X86_64~1.0-R/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/aadne/dat220g20h/creatris/testinput/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/aadne/dat220g20h/creatris/testinput/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/X86_64~1.0-R/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/aadne/dat220g20h/creatris/testinput/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/X86_64~1.0-R/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/aadne/dat220g20h/creatris/testinput/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/X86_64~1.0-R/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/aadne/dat220g20h/creatris/testinput/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/X86_64~1.0-R/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/aadne/dat220g20h/creatris/testinput/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/aadne/dat220g20h/creatris/testinput/Animation.cpp">
+			<Option target="testinput"/>
+		</Unit>
+		<Unit filename="C:/Users/aadne/dat220g20h/creatris/testinput/Animation.h">
+			<Option target="testinput"/>
+		</Unit>
+		<Unit filename="C:/Users/aadne/dat220g20h/creatris/testinput/Arrow.cpp">
+			<Option target="testinput"/>
+		</Unit>
+		<Unit filename="C:/Users/aadne/dat220g20h/creatris/testinput/Arrow.h">
+			<Option target="testinput"/>
+		</Unit>
+		<Unit filename="C:/Users/aadne/dat220g20h/creatris/testinput/ContactListener.cpp">
+			<Option target="testinput"/>
+		</Unit>
+		<Unit filename="C:/Users/aadne/dat220g20h/creatris/testinput/ContactListener.h">
+			<Option target="testinput"/>
+		</Unit>
+		<Unit filename="C:/Users/aadne/dat220g20h/creatris/testinput/Enemy1.cpp">
+			<Option target="testinput"/>
+		</Unit>
+		<Unit filename="C:/Users/aadne/dat220g20h/creatris/testinput/Enemy1.h">
+			<Option target="testinput"/>
+		</Unit>
+		<Unit filename="C:/Users/aadne/dat220g20h/creatris/testinput/Enemy2.cpp">
+			<Option target="testinput"/>
+		</Unit>
+		<Unit filename="C:/Users/aadne/dat220g20h/creatris/testinput/Enemy2.h">
+			<Option target="testinput"/>
+		</Unit>
+		<Unit filename="C:/Users/aadne/dat220g20h/creatris/testinput/Enemy3.cpp">
+			<Option target="testinput"/>
+		</Unit>
+		<Unit filename="C:/Users/aadne/dat220g20h/creatris/testinput/Enemy3.h">
+			<Option target="testinput"/>
+		</Unit>
+		<Unit filename="C:/Users/aadne/dat220g20h/creatris/testinput/GameWindow.cpp">
+			<Option target="testinput"/>
+		</Unit>
+		<Unit filename="C:/Users/aadne/dat220g20h/creatris/testinput/GameWindow.h">
+			<Option target="testinput"/>
+		</Unit>
+		<Unit filename="C:/Users/aadne/dat220g20h/creatris/testinput/GeneralSound.cpp">
+			<Option target="testinput"/>
+		</Unit>
+		<Unit filename="C:/Users/aadne/dat220g20h/creatris/testinput/GeneralSound.h">
+			<Option target="testinput"/>
+		</Unit>
+		<Unit filename="C:/Users/aadne/dat220g20h/creatris/testinput/GlobalVariables.cpp">
+			<Option target="testinput"/>
+		</Unit>
+		<Unit filename="C:/Users/aadne/dat220g20h/creatris/testinput/GlobalVariables.h">
+			<Option target="testinput"/>
+		</Unit>
+		<Unit filename="C:/Users/aadne/dat220g20h/creatris/testinput/Input.cpp">
+			<Option target="testinput"/>
+		</Unit>
+		<Unit filename="C:/Users/aadne/dat220g20h/creatris/testinput/Input.h">
+			<Option target="testinput"/>
+		</Unit>
+		<Unit filename="C:/Users/aadne/dat220g20h/creatris/testinput/Menu.cpp">
+			<Option target="testinput"/>
+		</Unit>
+		<Unit filename="C:/Users/aadne/dat220g20h/creatris/testinput/Menu.h">
+			<Option target="testinput"/>
+		</Unit>
+		<Unit filename="C:/Users/aadne/dat220g20h/creatris/testinput/NecroBall.cpp">
+			<Option target="testinput"/>
+		</Unit>
+		<Unit filename="C:/Users/aadne/dat220g20h/creatris/testinput/NecroBall.h">
+			<Option target="testinput"/>
+		</Unit>
+		<Unit filename="C:/Users/aadne/dat220g20h/creatris/testinput/Physics.cpp">
+			<Option target="testinput"/>
+		</Unit>
+		<Unit filename="C:/Users/aadne/dat220g20h/creatris/testinput/Physics.h">
+			<Option target="testinput"/>
+		</Unit>
+		<Unit filename="C:/Users/aadne/dat220g20h/creatris/testinput/Player.cpp">
+			<Option target="testinput"/>
+		</Unit>
+		<Unit filename="C:/Users/aadne/dat220g20h/creatris/testinput/Player.h">
+			<Option target="testinput"/>
+		</Unit>
+		<Unit filename="C:/Users/aadne/dat220g20h/creatris/testinput/SFMLDebugDraw.cpp">
+			<Option target="testinput"/>
+		</Unit>
+		<Unit filename="C:/Users/aadne/dat220g20h/creatris/testinput/SFMLDebugDraw.h">
+			<Option target="testinput"/>
+		</Unit>
+		<Unit filename="C:/Users/aadne/dat220g20h/creatris/testinput/createPhysical.h">
+			<Option target="testinput"/>
+		</Unit>
+		<Unit filename="C:/Users/aadne/dat220g20h/creatris/testinput/main.cpp">
+			<Option target="testinput"/>
+		</Unit>
+		<Unit filename="C:/Users/aadne/dat220g20h/creatris/testinput/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

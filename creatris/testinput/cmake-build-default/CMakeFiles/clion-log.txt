@@ -1,0 +1,18 @@
+C:\Users\Emil\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.6397.106\bin\cmake\win\bin\cmake.exe -DCMAKE_CXX_FLAGS=-IC:/dev/libs/box2d-master/include "-DCMAKE_CXX_FLAGS=-IC:/dev/libs/SFML/include -IC:/dev/libs/jsoncpp/include" "-DCMAKE_EXE_LINKER_FLAGS=-LC:/dev/libs/SFML/lib -LC:/dev/libs/jsoncpp/lib" -G "CodeBlocks - MinGW Makefiles" C:\Users\Emil\dat220g20h\creatris\testinput
+-- The C compiler identification is GNU 7.3.0
+-- The CXX compiler identification is GNU 7.3.0
+-- Check for working C compiler: C:/x86_64-7.3.0-release-posix-seh-rt_v5-rev0/mingw64/bin/gcc.exe
+-- Check for working C compiler: C:/x86_64-7.3.0-release-posix-seh-rt_v5-rev0/mingw64/bin/gcc.exe - works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: C:/x86_64-7.3.0-release-posix-seh-rt_v5-rev0/mingw64/bin/g++.exe
+-- Check for working CXX compiler: C:/x86_64-7.3.0-release-posix-seh-rt_v5-rev0/mingw64/bin/g++.exe - works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Emil/dat220g20h/creatris/testinput/cmake-build-default
